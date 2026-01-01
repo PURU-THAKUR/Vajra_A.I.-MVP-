@@ -123,6 +123,7 @@ git clone https://github.com/PURU-THAKUR/Vajra_A.I.-MVP-.git
 cd vajra-ai
 Step 2: Install Python
 Check if Python is installed:
+After installed run this command for this project:  python -m streamlit run main_app.py
 
 bash
 python --version
@@ -507,3 +508,4 @@ Set up regular monitoring routine
 
 Happy Monitoring! 🛡️
 Your system is now protected by intelligent AI-powered security monitoring.
+
